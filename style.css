@@ -1,0 +1,44 @@
+.Menu {
+    width: 100%;
+    height: 75px;
+    color: red;
+    background-color: rgba(169,40,45,255);
+    text-align: center;
+}
+
+.Corps {
+    width: 100%;
+    height: 350px;
+    background-color: rgba(97,151,230,255);
+    text-align: center;
+}
+
+.Footer {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: rgba(189,182,117,255);
+}
+
+.bleu {
+    float: left;
+    text-align: center;
+    width: 50%;
+    background-color: rgba(28,120,161,255);
+}
+
+.verte {
+    float: right;
+    text-align: center;
+    width: 50%;
+    background-color: rgb(48,228,148);
+}
+
+.table {
+    border: 1px solid white;
+    width: 100%;
+  }
+
+td {
+    border: 1px solid black;
+}
